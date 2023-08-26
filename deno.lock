@@ -1,0 +1,6 @@
+{
+  "version": "2",
+  "remote": {
+    "https://raw.githubusercontent.com/ppdx999/deno-env-parser/main/mod.ts": "7704f65d25908dd7010026ebd9d0683df580b195bf3b0bee95a95378618912a7"
+  }
+}
