@@ -1,4 +1,6 @@
 // deno-lint-ignore-file no-explicit-any
+// This code is highly inspired by the following code:
+// https://github.com/mizchi/lizod/blob/main/src/index.ts
 
 export type Validator<Expect> = (
   input: any,
