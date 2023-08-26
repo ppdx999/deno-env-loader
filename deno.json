@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "check": "deno check **/*.ts",
+    "ok": "deno fmt --check && deno lint && deno task check && deno test",
+    "npm": "deno run -A ./scripts/build_npm.ts $version"
+  }
+}
